@@ -136,5 +136,5 @@ Pod::Spec.new do |s|
   s.dependency 'AlamofireImage', '~> 3.3'
 
   s.ios.deployment_target = '8.0'
-  s.swift_version = '3.3'
+  s.swift_version = '3.2'
 end
